@@ -1,8 +1,8 @@
 # DMARC & Email Authentication Services
 
-Professional DMARC, SPF, DKIM configuration and monitoring for SMBs, MSPs, and agencies.
+Professional DMARC, SPF, DKIM configuration and monitoring for SMBs, MSPs, and agencies. 
 
-## 💼 Services
+## Services
 
 - DMARC policy setup and ramp up
 - SPF and DKIM record creation and alignment
@@ -10,7 +10,7 @@ Professional DMARC, SPF, DKIM configuration and monitoring for SMBs, MSPs, and a
 - Email source remediation to get all sources in DMARC compliance
 - Monthly monitoring and PDF reporting
 
-## 👥 Ideal Clients
+## Ideal Clients
 
 - Small businesses & agencies
 - SaaS
