@@ -4,9 +4,10 @@ Professional DMARC, SPF, DKIM configuration and monitoring for SMBs, MSPs, and a
 
 ## 💼 Services
 
-- DMARC policy setup (none → quarantine → reject)
+- DMARC policy setup and ramp up
 - SPF and DKIM record creation and alignment
-- Email authentication audit + DNS fixes
+- Email authentication audit
+- Email source remediation to get all sources in DMARC compliance
 - Monthly monitoring and PDF reporting
 
 ## 👥 Ideal Clients
